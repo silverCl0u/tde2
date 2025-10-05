@@ -1,6 +1,6 @@
 # Projeto PBL RA2: Implementação de Flask-Login
 
-## Demonstração em Vídeo (Obrigatório para Entrega)
+## Demonstração em Vídeo
 
 **Atenção, Professor:** A demonstração que explica a implementação e transita pelas páginas com 2 usuários criados, está disponível no link:
 
